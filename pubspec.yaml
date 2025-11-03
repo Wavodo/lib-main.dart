@@ -1,3 +1,4 @@
+flutter create -t app <app-directory>
 name: herethoug
 description: A simple thought board app
 publish_to: 'none'
